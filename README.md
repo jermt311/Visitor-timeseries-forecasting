@@ -16,3 +16,8 @@ In this project, I decided to explore the use of a few different timeseries fore
 - Simple Exponential Smoothing
 - Holt-Winters Multiplicative Damping
 - Holt Winters (Additive)
+
+
+## Forecasting
+
+Out of the five (5) selected timeseries models, I decided to only use the Holt Winters model and the SARIMA model to conduct a tiemseries forecast for 24 months (2 years).
